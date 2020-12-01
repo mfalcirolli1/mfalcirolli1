@@ -4,12 +4,14 @@
 
   :mortar_board: Sou formado em Ciências Econômicas. </br>
   :book: Atualmente estudando Análise e Desenvolvimento de Sistemas. </br>
-  🌱 Aprendendo as linguagens de programação C # e Python. </br>
+  🌱 Aprendendo linguagens de programação C#, JavaSript e Python 💻. SQL com Microsoft SQL Server 🔎. RPA com Automation Anywhere 🤖. </br>
   ⚡ Exercícios e projetos que desenvolvi até o momento podem ser encontrados nos meus repositórios.  </br>
   
 ### Trabalho
 
-  🔭 Trabalhei como estagiário de férias na Linx Sistemas e Consultoria onde tive como projeto o desenvolvimento de um sistema que simula a experiência de usuários (clientes e colaboradores) com uma automação robótica de processos (RPA - Robotic Process Automation) no uso de aplicações Web e Desktop.
+🔭 Atualmente trabalho como Estagiário de Desenvolvimento no Itaú Unibanco! ✨
+
+🔭 Trabalhei como estagiário de férias na Linx Sistemas e Consultoria onde tive como projeto o desenvolvimento de um sistema que simula a experiência de usuários (clientes e colaboradores) com uma automação robótica de processos (RPA - Robotic Process Automation) no uso de aplicações Web e Desktop.
 
 No desenvolvimento do mesmo obtive experiências técnicas no uso da Linguagem de Programação: Python, Framework: Robot Framework, Bibliotecas: Selenium, AutoIt e Tkinter, Metodologia Ágil: SCRUM, Metodologia de Gestão à Vista: Kanban, Monitoramento UX (User Experience), utilização e automação de processos no Jira Software, criação de Dashboards em Power BI e tratamento de dados no Excel. </br>
 
@@ -32,10 +34,12 @@ Conversação: :black_square_button: :black_square_button: :white_check_mark: :b
 
   :mortar_board: I' m graduated in economics science. </br>
   :book: Currently studying Systems Analysis and Development. </br>
-  🌱 Learning C# and Python programming languages. </br>
+  🌱 Learning C #, JavaSript and Python programming languages 💻. SQL with Microsoft SQL Server 🔎. RPA with Automation Anywhere 🤖 </br>
   ⚡ Exercises and projects I've developed so far can be found in my repositories. </br>
   
   ### Work
+  
+  🔭 Currently, I work as a Development Intern at Itaú Unibanco! ✨
   
   🔭 I worked as a vacation intern at Linx Sistemas e Consultoria where I had as project the development of a system that simulates the experience of users (customers   and   employees) with a robotic process automation (RPA) in the use of Web and Desktop applications .
 
