@@ -4,14 +4,14 @@
 
   :mortar_board: Sou formado em Ciências Econômicas. </br>
   :book: Atualmente estudando Análise e Desenvolvimento de Sistemas. </br>
-  🌱 Aprendendo linguagens de programação C#, JavaSript e Python 💻. SQL com Microsoft SQL Server 🔎. RPA com Automation Anywhere 🤖. </br>
+  🌱 Aprendendo linguagens de programação C#, JavaSript e Python 💻. SQL com Microsoft SQL Server 🔎. RPA 🤖. </br>
   ⚡ Exercícios e projetos que desenvolvi até o momento podem ser encontrados nos meus repositórios.  </br>
   
 ### Trabalho
 
-🔭 Atualmente trabalho como Estagiário de Desenvolvimento no Itaú Unibanco! ✨
+🔭 Atualmente trabalho como Analista de Projetos e Processos Jr no Itaú Unibanco! ✨
 
-🔭 Trabalhei como estagiário de férias na Linx Sistemas e Consultoria onde tive como projeto o desenvolvimento de um sistema que simula a experiência de usuários (clientes e colaboradores) com uma automação robótica de processos (RPA - Robotic Process Automation) no uso de aplicações Web e Desktop.
+🔭 Trabalhei como estagiário na Linx Sistemas e Consultoria onde tive como projeto o desenvolvimento de um sistema que simula a experiência de usuários (clientes e colaboradores) com uma automação robótica de processos (RPA - Robotic Process Automation) no uso de aplicações Web e Desktop.
 
 No desenvolvimento do mesmo obtive experiências técnicas no uso da Linguagem de Programação: Python, Framework: Robot Framework, Bibliotecas: Selenium, AutoIt e Tkinter, Metodologia Ágil: SCRUM, Metodologia de Gestão à Vista: Kanban, Monitoramento UX (User Experience), utilização e automação de processos no Jira Software, criação de Dashboards em Power BI e tratamento de dados no Excel. </br>
 
@@ -39,9 +39,9 @@ Conversação: :black_square_button: :black_square_button: :white_check_mark: :b
   
   ### Work
   
-  🔭 Currently, I work as a Development Intern at Itaú Unibanco! ✨
+  🔭 Currently, I work as Junior Project and Process Analyst at Itaú Unibanco! ✨
   
-  🔭 I worked as a vacation intern at Linx Sistemas e Consultoria where I had as project the development of a system that simulates the experience of users (customers   and   employees) with a robotic process automation (RPA) in the use of Web and Desktop applications .
+  🔭 I worked as a intern at Linx Sistemas e Consultoria where I had as project the development of a system that simulates the experience of users (customers   and   employees) with a robotic process automation (RPA) in the use of Web and Desktop applications .
 
   In developing it, I obtained technical experiences in the use of Programming Language: Python, Framework: Robot Framework, Libraries: Selenium, AutoIt and Tkinter,     Agile Methodology: SCRUM, Management Methodology in sight: Kanban, UX Monitoring (User Experience), use and automation of processes in Jira Software, creation of       Dashboards in Power BI and data processing in Excel. </br>
   
