@@ -1,34 +1,6 @@
-### :smiley: Olá. Eu sou o Matheus. 👋
-
-### Estudos
-
-  :mortar_board: Sou formado em Ciências Econômicas. </br>
-  :book: Atualmente estudando Análise e Desenvolvimento de Sistemas. </br>
-  🌱 Aprendendo linguagens de programação C#, JavaSript e Python 💻. SQL com Microsoft SQL Server 🔎. RPA 🤖. </br>
-  ⚡ Exercícios e projetos que desenvolvi até o momento podem ser encontrados nos meus repositórios.  </br>
-  
-### Trabalho
-
-🔭 Atualmente trabalho como Analista de Projetos e Processos Jr no Itaú Unibanco! ✨
-
-🔭 Trabalhei como estagiário na Linx Sistemas e Consultoria onde tive como projeto o desenvolvimento de um sistema que simula a experiência de usuários (clientes e colaboradores) com uma automação robótica de processos (RPA - Robotic Process Automation) no uso de aplicações Web e Desktop.
-
-No desenvolvimento do mesmo obtive experiências técnicas no uso da Linguagem de Programação: Python, Framework: Robot Framework, Bibliotecas: Selenium, AutoIt e Tkinter, Metodologia Ágil: SCRUM, Metodologia de Gestão à Vista: Kanban, Monitoramento UX (User Experience), utilização e automação de processos no Jira Software, criação de Dashboards em Power BI e tratamento de dados no Excel. </br>
-
-### Inglês
-Leitura: :black_square_button: :black_square_button: :black_square_button: :black_square_button: :white_check_mark:</br>
-Escrita: :black_square_button: :black_square_button: :black_square_button: :white_check_mark: :black_square_button:</br>
-Conversação: :black_square_button: :black_square_button: :white_check_mark: :black_square_button: :black_square_button:</br>
-
-:airplane: Intercâmbio em Dublin - Irlanda.
-
-### Contato
-  
-  Como me encontrar: :email: fmatheus8@gmail.com || :link: <a href="https://www.linkedin.com/in/matheusfalcirolli/" target="_blank">LinkedIn</a>
- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :smiley: Hi there. I'm Matheus. 👋
+### :smiley: Hi there. My name is Matheus. 👋
 
 ### Studies
 
@@ -39,7 +11,7 @@ Conversação: :black_square_button: :black_square_button: :white_check_mark: :b
   
   ### Work
   
-  🔭 Currently, I work as Junior Project and Process Analyst at Itaú Unibanco! ✨
+  🔭 Currently, I work as Junior IT Engineering Analyst at Itaú Unibanco! ✨
   
   🔭 I worked as a intern at Linx Sistemas e Consultoria where I had as project the development of a system that simulates the experience of users (customers   and   employees) with a robotic process automation (RPA) in the use of Web and Desktop applications .
 
