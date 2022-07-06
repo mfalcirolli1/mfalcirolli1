@@ -11,7 +11,7 @@
   
   ### Work
   
-  🔭 Currently, I work as Junior IT Engineering Analyst at Itaú Unibanco! ✨
+  🔭 Currently, I work as IT Engineering Analyst at Itaú Unibanco! ✨
   
   🔭 I worked as a intern at Linx Sistemas e Consultoria where I had as project the development of a system that simulates the experience of users (customers   and   employees) with a robotic process automation (RPA) in the use of Web and Desktop applications .
 
