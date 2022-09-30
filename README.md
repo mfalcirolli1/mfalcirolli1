@@ -29,6 +29,7 @@ Conversation: :black_square_button: :black_square_button: :white_check_mark: :bl
   
   How to reach me: :email: fmatheus8@gmail.com || :link: <a href="https://www.linkedin.com/in/matheusfalcirolli/" target="_blank">LinkedIn</a>
   
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="600d2530-f3f7-4b97-be3a-ddc9190a7749" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
   
 <!--
